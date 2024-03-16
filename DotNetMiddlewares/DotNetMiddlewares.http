@@ -1,0 +1,6 @@
+@DotNetMiddlewares_HostAddress = http://localhost:5012
+
+GET {{DotNetMiddlewares_HostAddress}}/GetIdentity/
+Accept: application/json
+
+###
